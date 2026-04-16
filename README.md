@@ -67,7 +67,7 @@ LangChain_Project
 ## ⚙️ Installation & Setup  
 
 1. Clone Repository  
-git clone https://github.com/your-username/Agent-Orchestration-LangChain.git  
+git clone https://github.com/Afreen-Akbar-Ali/Agent-Orchestration-LangChain.git  
 cd Agent-Orchestration-LangChain  
 
 2. Install Dependencies  
